@@ -8,10 +8,10 @@
 
 4) Install the requirements: 
 
-`pip install -r requirements.txt`
+    `pip install -r requirements.txt`
 
 5) Run the script with the command: 
 
-`python run.py`
+    `python run.py`
 
 6) File with the results `data/test_proc.tsv`
