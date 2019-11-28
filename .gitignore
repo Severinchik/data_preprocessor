@@ -1,0 +1,7 @@
+*.ipynb
+.ipynb_checkpoints
+.idea
+credentials.py
+data
+.DS_store
+__pycache__
